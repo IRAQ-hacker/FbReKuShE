@@ -14,7 +14,7 @@ elif sys.platform == "win32":
         os.system("cls")
 else:
         os.system("clear")
-API_SECRET = "62f8ce9f74b12f84c123cc23437a4a32"
+API_SECRET = "09b037a277030afbb32f2642411c82bb"
 __banner__ = """ |\   /| FBrekushe - Facebook Multi Brute Force
     \|_|/  Author: ReKuShE*
     /. .\  Version: 1.0
